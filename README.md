@@ -1,5 +1,7 @@
 # AgentDojo Trace Audit
 
+Version 1.0.0 is archived at https://doi.org/10.5281/zenodo.22217485.
+
 A benchmark-specific research-software layer that reconstructs a frozen AgentDojo v1.2.1 corpus and links source identity, record selection, population accounting, denominators, derived records, results and claim locators. It also validates a declared provenance-fault model.
 
 ## Quick start

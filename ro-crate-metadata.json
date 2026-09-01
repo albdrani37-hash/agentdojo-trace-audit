@@ -15,7 +15,10 @@
         "@id": "https://orcid.org/0009-0009-7201-0295"
       },
       "license": "https://spdx.org/licenses/Apache-2.0.html",
+      "identifier": "https://doi.org/10.5281/zenodo.22217485",
       "name": "AgentDojo Trace Audit",
+      "codeRepository": "https://github.com/albdrani37-hash/agentdojo-trace-audit",
+      "datePublished": "2026-09-01",
       "version": "1.0.0"
     },
     {

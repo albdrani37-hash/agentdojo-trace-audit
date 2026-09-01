@@ -3,6 +3,8 @@ message: "If you use this software, please cite the accompanying manuscript."
 title: "AgentDojo Trace Audit"
 type: software
 version: "1.0.0"
+doi: "10.5281/zenodo.22217485"
+date-released: 2026-09-01
 authors:
   - family-names: Alharbi
     given-names: Abdullah

@@ -9,11 +9,13 @@
     "givenName": "Abdullah"
   },
   "email": "albdrani36@gmail.com",
+  "identifier": "https://doi.org/10.5281/zenodo.22217485",
   "license": "https://spdx.org/licenses/Apache-2.0.html",
   "name": "AgentDojo Trace Audit",
   "operatingSystem": "Linux",
   "programmingLanguage": "Python",
   "codeRepository": "https://github.com/albdrani37-hash/agentdojo-trace-audit",
   "issueTracker": "https://github.com/albdrani37-hash/agentdojo-trace-audit/issues",
+  "datePublished": "2026-09-01",
   "version": "1.0.0"
 }
