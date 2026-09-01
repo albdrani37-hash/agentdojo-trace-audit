@@ -1,0 +1,32 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "creationInfo": {
+    "created": "2026-08-31T00:00:00Z",
+    "creators": [
+      "Person: Abdullah Alharbi",
+      "Tool: local corrective build script"
+    ]
+  },
+  "dataLicense": "CC0-1.0",
+  "documentNamespace": "urn:uuid:be26598d-879a-5f7d-9722-7f0981b30b20",
+  "name": "AgentDojo-Trace-Audit-1.0.0",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-Package",
+      "downloadLocation": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "OTHER",
+          "referenceLocator": "AgentDojo commit 089ed468cf3ed0322acc66b0211f26d9d90dbf60",
+          "referenceType": "source-prerequisite"
+        }
+      ],
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "name": "agentdojo-trace-audit",
+      "versionInfo": "1.0.0"
+    }
+  ],
+  "spdxVersion": "SPDX-2.3"
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "claim_id": "fixture",
+    "target": "summary.json#/selected_records",
+    "target_sha256": "d8bdc8cf49969f10885d3868c9d3701e981a1afa62a50df793a573f64ae77b2b"
+  }
+]

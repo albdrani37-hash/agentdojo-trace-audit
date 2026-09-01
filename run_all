@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+set -eu
+ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+PYTHON=${PYTHON:-python3}
+if [ "$#" -ne 2 ]; then echo "usage: run_all SOURCE_ARCHIVE WORKDIR" >&2; exit 64; fi
+SOURCE_ARCHIVE=$1
+WORKDIR=$2
+"$ROOT/prepare" "$SOURCE_ARCHIVE" "$WORKDIR"
+SOURCE_ROOT=$(PYTHONPATH="$ROOT/src" "$PYTHON" -c 'import json,sys,pathlib; w=pathlib.Path(sys.argv[1]); print((w/json.loads((w/"prepared_source.json").read_text())["source_root"]).resolve())' "$WORKDIR")
+"$ROOT/analyze" "$SOURCE_ROOT" "$WORKDIR/results"
+"$ROOT/validate" "$SOURCE_ROOT" "$WORKDIR/results" "$WORKDIR/validation_report.json"
+"$ROOT/render" "$WORKDIR/results" "$WORKDIR/reconstruction_report.md"

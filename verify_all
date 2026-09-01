@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+set -eu
+ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+PYTHON=${PYTHON:-python3}
+if [ "$#" -ne 1 ]; then echo "usage: verify_all WORKDIR" >&2; exit 64; fi
+WORKDIR=$1
+"$ROOT/verify" "$WORKDIR/results" "$WORKDIR/verification_report.json"
+PYTHONPATH="$ROOT/src" "$PYTHON" -m compileall -q "$ROOT/src"
+PYTHONPATH="$ROOT/src" "$PYTHON" -m unittest discover -s "$ROOT/tests" -p 'test_*.py'

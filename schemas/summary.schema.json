@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Finite-corpus reconstruction summary",
+  "type": "object",
+  "required": ["selected_records", "attack_present", "no_injection", "cells", "source_commit", "benchmark_version", "population_id", "cross_population_edges"]
+}

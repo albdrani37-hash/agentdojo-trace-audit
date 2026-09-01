@@ -1,0 +1,8 @@
+{
+  "benchmark_version": "v1.2.1",
+  "population_id": "AGENTDOJO_V1_2_1_FROZEN",
+  "selected_unit_ids": [
+    "fixture-001"
+  ],
+  "source_commit": "fixture-commit"
+}

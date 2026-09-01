@@ -1,0 +1,14 @@
+{
+  "attack_present": 11236,
+  "cells": {
+    "TASK_FAILURE__ATTACK_ACHIEVED": 416,
+    "TASK_FAILURE__ATTACK_NOT_ACHIEVED": 3727,
+    "TASK_SUCCESS__ATTACK_ACHIEVED": 200,
+    "TASK_SUCCESS__ATTACK_NOT_ACHIEVED": 6893
+  },
+  "historical_named_checks": "19/19",
+  "no_injection": 388,
+  "official_evaluator_replay": "11624/11624",
+  "selected_records": 11624,
+  "use": "post-reconstruction regression receipt only"
+}

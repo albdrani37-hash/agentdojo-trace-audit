@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Trace-linked derived record",
+  "type": "object",
+  "required": ["unit_id", "raw_path", "raw_sha256", "source_commit", "benchmark_version", "attack_present", "task_success", "attack_goal_achieved", "population_id"],
+  "properties": {
+    "unit_id": {"type": "string", "minLength": 20, "maxLength": 20},
+    "raw_path": {"type": "string"},
+    "raw_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "source_commit": {"type": "string", "const": "089ed468cf3ed0322acc66b0211f26d9d90dbf60"},
+    "benchmark_version": {"type": "string", "const": "v1.2.1"},
+    "population_id": {"type": "string", "const": "POP-REAL-AGENTDOJO-CORE-COMPLETE"}
+  }
+}

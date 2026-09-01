@@ -1,0 +1,9 @@
+{
+  "acquisition": "official repository checkout or official commit archive supplied locally",
+  "benchmark_version": "v1.2.1",
+  "commit": "089ed468cf3ed0322acc66b0211f26d9d90dbf60",
+  "historical_container_sha256": "d7e0ee021be27a69e7e66647979b5a5e0dd10030d38d04ce4102e18a76a228d8",
+  "name": "AgentDojo",
+  "redistributed": false,
+  "source_content_id": "6a901ddfede209b3da16b3c00e0ad212e098d66618668375e6adcaf50cc830cd"
+}

@@ -1,0 +1,5 @@
+Python >=3.12,<3.13 (tested: CPython 3.12.13 on Linux x86_64)
+Runtime dependencies: Python standard library only for the default implementation
+Locale: C.UTF-8 or another UTF-8 locale
+Timezone: UTC
+Encoding: UTF-8

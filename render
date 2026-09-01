@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+set -eu
+ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+PYTHON=${PYTHON:-python3}
+if [ "$#" -ne 2 ]; then echo "usage: render RESULT_DIR REPORT_MD" >&2; exit 64; fi
+PYTHONPATH="$ROOT/src" exec "$PYTHON" -m trace_audit.stages render "$1" "$2"

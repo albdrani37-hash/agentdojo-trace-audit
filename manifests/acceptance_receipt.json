@@ -1,0 +1,19 @@
+{
+  "accepted_at": "2026-08-29T04:05:18Z",
+  "platform": "Linux x86_64",
+  "python": "3.12.13",
+  "clean_environment": "fresh venv; standard-library default implementation",
+  "complete_run_all": "PASS",
+  "independent_verify_all": "PASS",
+  "selected_records": 11624,
+  "raw_to_derived_coverage": "11624/11624",
+  "source_hash_mismatches": 0,
+  "population_merge_edges": 0,
+  "implementation_b_named_checks": "19/19 PASS",
+  "missing_source_diagnostic": {"exit_code": 2, "code": "BLOCKED_MISSING_SOURCE", "false_success": false},
+  "wrong_version_diagnostic": {"exit_code": 2, "code": "SOURCE_HASH_MISMATCH_OR_WRONG_VERSION", "false_success": false},
+  "frozen_fault_receipts": {"detected": 4, "injected": 4, "localized": 4, "false_successes": 0},
+  "narrow_repair": "self-check absolute-path regex excluded its own rule literal and the legitimate AgentDojo workspace suite path; dependent self-check and tests rerun PASS",
+  "external_replication": "NOT_ESTABLISHED",
+  "public_release": "OWNER_AUTHORIZATION_REQUIRED"
+}

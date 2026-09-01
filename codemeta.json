@@ -1,0 +1,19 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "author": {
+    "@id": "https://orcid.org/0009-0009-7201-0295",
+    "@type": "Person",
+    "affiliation": "Independent Researcher",
+    "familyName": "Alharbi",
+    "givenName": "Abdullah"
+  },
+  "email": "albdrani36@gmail.com",
+  "license": "https://spdx.org/licenses/Apache-2.0.html",
+  "name": "AgentDojo Trace Audit",
+  "operatingSystem": "Linux",
+  "programmingLanguage": "Python",
+  "codeRepository": "https://github.com/albdrani37-hash/agentdojo-trace-audit",
+  "issueTracker": "https://github.com/albdrani37-hash/agentdojo-trace-audit/issues",
+  "version": "1.0.0"
+}

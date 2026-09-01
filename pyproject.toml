@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentdojo-trace-audit"
+version = "1.0.0"
+description = "Trace-linked finite-corpus reconstruction and provenance-fault auditing for a frozen AgentDojo snapshot"
+requires-python = ">=3.12,<3.13"
+license = "Apache-2.0"
+authors = [{name="Abdullah Alharbi", email="albdrani36@gmail.com"}]
+readme = "README.md"
+keywords = ["AgentDojo", "provenance", "reproducibility", "audit", "AI agents"]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Operating System :: POSIX :: Linux",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering",
+]
+
+[project.urls]
+Homepage = "https://github.com/albdrani37-hash/agentdojo-trace-audit"
+Repository = "https://github.com/albdrani37-hash/agentdojo-trace-audit"
+Issues = "https://github.com/albdrani37-hash/agentdojo-trace-audit/issues"
+
+[project.scripts]
+trace-audit = "trace_audit.cli:main"
+
+[tool.setuptools.packages.find]
+where=["src"]

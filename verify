@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+set -eu
+ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+PYTHON=${PYTHON:-python3}
+if [ "$#" -ne 2 ]; then echo "usage: verify RESULT_DIR REPORT_JSON" >&2; exit 64; fi
+PYTHONPATH="$ROOT/src" exec "$PYTHON" -m trace_audit.stages verify "$1" "$2"

@@ -1,0 +1,28 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.2/context",
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": "SoftwareSourceCode",
+      "author": {
+        "@id": "https://orcid.org/0009-0009-7201-0295"
+      },
+      "license": "https://spdx.org/licenses/Apache-2.0.html",
+      "name": "AgentDojo Trace Audit",
+      "version": "1.0.0"
+    },
+    {
+      "@id": "https://orcid.org/0009-0009-7201-0295",
+      "@type": "Person",
+      "affiliation": "Independent Researcher",
+      "name": "Abdullah Alharbi"
+    }
+  ]
+}

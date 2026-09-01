@@ -1,0 +1,29 @@
+{
+  "distributed_families": [
+    {
+      "family": "owner-authored source code and documentation",
+      "license": "Apache-2.0",
+      "origin": "OWNER_ORIGINAL"
+    },
+    {
+      "family": "synthetic example fixture",
+      "license": "CC0-1.0",
+      "origin": "OWNER_ORIGINAL"
+    }
+  ],
+  "prohibited_content": [
+    "raw AgentDojo traces",
+    "model outputs",
+    "AgentDojo source bytes",
+    "credentials",
+    "private personal data"
+  ],
+  "referenced_not_distributed": [
+    {
+      "access": "user-supplied official source prerequisite",
+      "family": "AgentDojo source, raw traces and model outputs",
+      "origin": "UPSTREAM_OR_THIRD_PARTY"
+    }
+  ],
+  "version": "1.0.0"
+}

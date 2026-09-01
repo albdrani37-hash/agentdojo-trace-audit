@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "AgentDojo Trace Audit"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: Alharbi
+    given-names: Abdullah
+    orcid: "https://orcid.org/0009-0009-7201-0295"
+    affiliation: "Independent Researcher"
+contact:
+  - family-names: Alharbi
+    given-names: Abdullah
+    email: "albdrani36@gmail.com"
+license: Apache-2.0
+repository-code: "https://github.com/albdrani37-hash/agentdojo-trace-audit"
+url: "https://github.com/albdrani37-hash/agentdojo-trace-audit"
