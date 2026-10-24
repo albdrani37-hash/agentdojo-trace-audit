@@ -43,4 +43,4 @@ For a technical fit discussion or partnership inquiry:
 **Abdullah Alharbi**  
 Independent Researcher — Saudi Arabia  
 ORCID: https://orcid.org/0009-0009-7201-0295  
-Email: albdrani37@gmail.com
+Email: abdullahalharbi@purelymail.com
