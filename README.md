@@ -34,9 +34,11 @@ The public reference implementation contains 11,624 selected records and 11,624 
 
 ### Founding pilot
 
-One agent system. One benchmark. Up to 1,500 traces. Delivered in 7–10 business days after data intake.
+Indicative pilot sizing: one agent system, one benchmark, and up to 1,500 traces, subject to schema review and a signed scope. Delivery time, access controls, acceptance criteria and fees must be agreed before work starts.
 
 Designed for agent builders, evaluation and assurance teams, observability platforms and enterprises preparing high-consequence agent deployments.
+
+**For enterprise teams:** see the [evidence-linked evaluation review service scope](ENTERPRISE_SERVICES.md), including deliverables, constraints, buyer-qualification details, and a professional contact route.
 
 For a technical fit discussion or partnership inquiry:
 
