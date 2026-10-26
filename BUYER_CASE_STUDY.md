@@ -50,4 +50,4 @@ If those conditions are absent, do not initiate an unbounded unpaid pilot.
 
 For a confidential, non-sensitive technical-fit conversation, send the scope, expected outputs, budget owner and contractor eligibility requirements to **abdullahalharbi@purelymail.com**.
 
-See the [enterprise service description and intake criteria](ENTERPRISE_SERVICES.md). No fixed fee, timeline or customer acceptance is implied until agreed in writing.
+**Next step for a real buyer:** [Request a scoped paid evaluation-evidence review](REQUEST_A_QUOTE.md). See also the [enterprise service description and exclusions](ENTERPRISE_SERVICES.md). No fixed fee, timeline or customer acceptance is implied until agreed in writing.
