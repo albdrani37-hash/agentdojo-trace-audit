@@ -47,6 +47,8 @@ For efficient qualification, please share **non-confidential** information on:
 
 For an appropriately funded and feasible scope, I can discuss an evidence-based statement of work and a project-specific fee. **No published fixed price or unconditional service-level commitment is implied.**
 
-**Send a technical or procurement enquiry:** [abdullahalharbi@purelymail.com](mailto:abdullahalharbi@purelymail.com?subject=Enterprise%20AI%20evaluation%20evidence%20enquiry)
+**Buyer next step:** [Request a scoped, paid evaluation-evidence review](REQUEST_A_QUOTE.md) using the non-confidential intake template. Email only the information you are authorised to share.
+
+**Professional enquiry email:** [abdullahalharbi@purelymail.com](mailto:abdullahalharbi@purelymail.com?subject=Paid%20AI%20evaluation%20evidence%20scope%20request)
 
 _This page describes potential services backed by published technical demonstrations. Any work depends on a separately agreed contract, access controls, deliverables, and payment terms._
