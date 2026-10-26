@@ -38,7 +38,7 @@ Indicative pilot sizing: one agent system, one benchmark, and up to 1,500 traces
 
 Designed for agent builders, evaluation and assurance teams, observability platforms and enterprises preparing high-consequence agent deployments.
 
-**For enterprise teams:** see the [buyer-oriented evidence-integrity case study](BUYER_CASE_STUDY.md) and [evidence-linked evaluation review service scope](ENTERPRISE_SERVICES.md), including documented test limitations, potential deliverables, buyer-qualification details, and a professional contact route.
+**For enterprise buyers:** [Request a scoped paid evaluation-evidence review](REQUEST_A_QUOTE.md) · [Inspect the buyer-oriented case study](BUYER_CASE_STUDY.md) · [Review service scope and exclusions](ENTERPRISE_SERVICES.md). An enquiry does not establish a commitment or guarantee.
 
 For a technical fit discussion or partnership inquiry:
 
