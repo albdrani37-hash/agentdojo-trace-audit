@@ -6,6 +6,8 @@ Version 1.0.0 is archived at https://doi.org/10.5281/zenodo.22217485.
 
 If you have a funded requirement to verify AI-agent evaluation traces, exclusions, or reproducibility, [**request a confidential, non-sensitive scope discussion**](REQUEST_A_QUOTE.md). The request page explains buyer information needed, engagement boundaries, and how to contact the developer through **abdullahalharbi@purelymail.com**. No customer data should be posted to this public repository.
 
+**For teams considering a broader Python/AI engineering subcontract:** [Independent AI Engineering capability directory](https://github.com/albdrani37-hash/FalconX/blob/main/INDEPENDENT_AI_ENGINEERING_CAPABILITIES.md), with verified examples and limitations.
+
 **For independent evaluators and AI evaluation delivery partners:** [Read the external evaluation evidence-engineering collaboration brief](EXTERNAL_EVALUATION_COLLABORATION.md). This is an unaffiliated, research-backed capability statement, not an endorsement or assurance certification.
 
 A benchmark-specific research-software layer that reconstructs a frozen AgentDojo v1.2.1 corpus and links source identity, record selection, population accounting, denominators, derived records, results and claim locators. It also validates a declared provenance-fault model.
