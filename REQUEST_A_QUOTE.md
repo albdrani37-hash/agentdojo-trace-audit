@@ -2,6 +2,8 @@
 
 **Enterprise buyer intake — preliminary and non-binding.**
 
+**Published service listing:** [View on Contra and request a tailored quote](https://contra.com/s/kck6PBq7-ai-agent-evaluation-evidence-and-reproducibility-review). The listing accepts initial enquiries; any paid engagement requires a separately agreed scope, eligibility, delivery criteria and funded payment route.
+
 If your engineering, evaluation or assurance team needs to verify the evidence behind an AI-agent benchmark or a release decision, please email a short **non-confidential** scope summary. You do not need to register on GitHub or post client information publicly.
 
 **Contact:** [abdullahalharbi@purelymail.com](mailto:abdullahalharbi@purelymail.com?subject=Paid%20AI%20evaluation%20evidence%20scope%20request)
