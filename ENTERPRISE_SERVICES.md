@@ -3,7 +3,8 @@
 **Technical service enquiry — non-binding capability outline**
 
 **Abdullah Alharbi** · Independent Researcher & Technology Developer · Saudi Arabia  
-**Contact:** abdullahalharbi@purelymail.com
+**Contact:** abdullahalharbi@purelymail.com  
+**Published buyer service:** [AI Agent Evaluation Evidence & Reproducibility Review — Contra](https://contra.com/s/kck6PBq7-ai-agent-evaluation-evidence-and-reproducibility-review) (Contact for pricing; payout onboarding remains separate).
 
 ## Who this is for
 
