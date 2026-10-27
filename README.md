@@ -4,7 +4,9 @@ Version 1.0.0 is archived at https://doi.org/10.5281/zenodo.22217485.
 
 ### Enterprise buyers — request a scoped evaluation-evidence review
 
-If you have a funded requirement to verify AI-agent evaluation traces, exclusions, or reproducibility, [**request a confidential, non-sensitive scope discussion**](REQUEST_A_QUOTE.md). The request page explains buyer information needed, engagement boundaries, and how to contact the developer through **abdullahalharbi@purelymail.com**. No customer data should be posted to this public repository.
+If you have a funded requirement to verify AI-agent evaluation traces, exclusions, or reproducibility, [**request a confidential, non-sensitive scope discussion**](REQUEST_A_QUOTE.md).**Published service on Contra:** [AI Agent Evaluation Evidence & Reproducibility Review](https://contra.com/s/kck6PBq7-ai-agent-evaluation-evidence-and-reproducibility-review) — **Contact for pricing**. This is an enquiry route, not a signed agreement; suitability, scope, fees, data controls and payment milestones require separate confirmation.
+
+ The request page explains buyer information needed, engagement boundaries, and how to contact the developer through **abdullahalharbi@purelymail.com**. No customer data should be posted to this public repository.
 
 **For teams considering a broader Python/AI engineering subcontract:** [Independent AI Engineering capability directory](https://github.com/albdrani37-hash/FalconX/blob/main/INDEPENDENT_AI_ENGINEERING_CAPABILITIES.md), with verified examples and limitations.
 
