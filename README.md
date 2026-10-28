@@ -4,6 +4,8 @@ Version 1.0.0 is archived at https://doi.org/10.5281/zenodo.22217485.
 
 ### Enterprise buyers — request a scoped evaluation-evidence review
 
+**Paid pilot brief (non-binding):** [Scope, indicative sizing, boundaries and buyer qualification](PAID_AGENT_EVALUATION_PILOT.md). This is a proposed engineering service, not a certification or a claim of completed commercial client work.
+
 If you have a funded requirement to verify AI-agent evaluation traces, exclusions, or reproducibility, [**request a confidential, non-sensitive scope discussion**](REQUEST_A_QUOTE.md).
 
 **Published service on Contra:** [AI Agent Evaluation Evidence & Reproducibility Review](https://contra.com/s/kck6PBq7-ai-agent-evaluation-evidence-and-reproducibility-review) — **Contact for pricing**. This is an enquiry route, not a signed agreement; suitability, scope, fees, data controls and payment milestones require separate confirmation.
