@@ -53,3 +53,30 @@ Or use the [existing request-a-quote intake template](REQUEST_A_QUOTE.md) or [pu
 **Please do not email raw customer traces, credentials, sensitive files, or personal data at the enquiry stage.**
 
 _This page transcribes the scope of the 29 October 2026 one-page pilot brief into a public, linkable format. It does not imply endorsement, an award, a signed client engagement, or acceptance of a binding order._
+
+## Three purchasable scope options — 29 October 2026
+
+These are **non-binding planning packages**, not accepted orders. The smaller diagnostic below is narrower than the USD 2,500–5,000 pilot described above. Every engagement requires a separately approved written scope, contractor/payment eligibility, and data-handling terms. Delivery time begins only after scope approval, protected initial payment, and usable authorized inputs.
+
+| Package | Bounded scope and deliverables | Proposed delivery | Indicative USD fee | Proposed milestones |
+| --- | --- | --- | --- | --- |
+| 1. Engineering diagnostic | One Python module or one evaluation export; one schema; up to 500 normalized records or five agreed behaviors. Reproduction commands, up to five automated checks, findings with record/test locators, and a concise limitations note. | 3–5 business days | 750–1,250 | 50% funded before work; 50% after agreed acceptance |
+| 2. Evaluation evidence review | One workflow, one frozen dataset, up to two documented schemas and 10,000 normalized records; up to ten agreed checks. Input inventory, lineage and denominator reconciliation, Python checks, machine-readable findings, and a reproducibility/decision brief. | 7–10 business days | 2,500–5,000 | 40% start; 30% on reproducible draft; 30% after agreed acceptance |
+| 3. Custom subcontract | A paid discovery stage defines one workstream in an existing funded project. Possible outputs: schema adapter, validation module, test fixtures, CI integration proposal, and technical handover. Implementation volume and number of checks are sized after discovery. | Discovery: 3–5 business days; implementation: provisionally 3–6 weeks, subject to sizing | Discovery: 1,000–2,000; feasible implementation: 7,500–15,000, separately quoted | Discovery 50%/50%; implementation 30%/40%/30% against written milestones |
+
+### Acceptance criteria
+
+- **Diagnostic:** each agreed check runs with documented commands in the agreed Python environment; each finding points to a reproducible case or record; expected-versus-observed results and untestable cases are stated.
+- **Evidence review:** all in-scope records are accounted for as included, excluded, invalid or unresolved; selected aggregate claims are reconciled or documented with discrepancies; checks, sample fixtures, environment instructions and findings are handed over.
+- **Custom subcontract:** discovery is accepted against its schema map, feasibility risks, proposed test plan and priced implementation scope. Implementation acceptance is defined before that separate stage starts; no general enterprise readiness promise is made.
+
+A proposed five-business-day buyer review window and one correction pass for departures from agreed deliverables are included for discussion. Silence is not treated as acceptance. Finding no defects is a valid outcome; missing source evidence is reported as unresolved, not manufactured. New datasets, schemas, integrations or checks require a separately agreed change.
+
+### Technical and payment boundaries
+
+- Work is offline or in an explicitly authorized test environment using redacted/synthetic fixtures where possible. No production changes, unrestricted access, model training, paid model calls, or hosting are included.
+- Record limits assume manageable, documented exports. Large nested traces, missing dependencies, ambiguous source rights, or extensive manual labeling require resizing before any commitment.
+- Fees exclude unapproved third-party costs. Any taxes, withholding, transfer fees, currency and payout route must be explicit in the final scope; no net-payment promise is assumed.
+- Prefer funded escrow milestones or an agreed advance and milestone payments through a verified route that can pay a Saudi-based independent contractor. Platform listing alone does not establish payout eligibility.
+- Public components retain their existing open-source licenses; this service prices engineering work and deliverables, not exclusive ownership of upstream code. Work-product rights require separate written agreement.
+- No security certificate, legal opinion, exhaustive vulnerability search, guaranteed model safety, or prior paid customer deployment is represented.
