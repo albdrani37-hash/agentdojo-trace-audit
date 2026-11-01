@@ -1,0 +1,31 @@
+{
+  "schema": "flat-v1",
+  "records": [
+    {
+      "id": "a",
+      "status": "included",
+      "payload": {
+        "success": false,
+        "latency": 120
+      }
+    },
+    {
+      "id": "b",
+      "status": "excluded",
+      "payload": {
+        "success": true
+      }
+    }
+  ],
+  "derived": [
+    {
+      "trace_id": "a",
+      "source_sha256": "bf6789450dece63dd5b04fae0c9b9d8392a2ae604355711262f55f5c72c8284a"
+    }
+  ],
+  "claim": {
+    "raw_total": 2,
+    "included": 1,
+    "excluded": 1
+  }
+}
