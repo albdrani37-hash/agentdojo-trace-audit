@@ -2,6 +2,10 @@
 
 Version 1.0.0 is archived at https://doi.org/10.5281/zenodo.22217485.
 
+### Research grant reviewers — technical evidence and funded scope
+
+The existing [Manifund public-benefit research proposal](https://manifund.org/projects/open-source-evidence-integrity-for-ai-agent-evaluations) is supported by a [**verification dossier**](MANIFUND_EVIDENCE_DOSSIER.md) documenting frozen benchmark findings, reproducibility prerequisites, failure cases, the proposed $7,500 minimum/$15,000 full-funded deliverables, budget and limits. This is distinct from the commercial services below; neither a successful grant nor external replication is claimed.
+
 ### Enterprise buyers — request a scoped evaluation-evidence review
 
 **Paid pilot brief (non-binding):** [Scope, indicative sizing, boundaries and buyer qualification](PAID_AGENT_EVALUATION_PILOT.md). This is a proposed engineering service, not a certification or a claim of completed commercial client work.
