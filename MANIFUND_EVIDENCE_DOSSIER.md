@@ -35,6 +35,12 @@
 
 **Verification status:** the published results are those of the author's bounded implementation. Independent external replication has **not** been established. Source-native utility and security labels were not independently validated. See [LIMITATIONS.md](LIMITATIONS.md). The links and instructions are supplied for review; the project does not claim that an outside reviewer has completed the procedure.
 
+## Small, dependency-free example for reviewers
+
+A second, **separate** demonstration is available in the [FalconX portfolio](https://github.com/albdrani37-hash/FalconX/blob/main/examples/eval-evidence-demo/README.md): a standard-library-only [Python evidence checker](https://github.com/albdrani37-hash/FalconX/blob/main/examples/eval-evidence-demo/verify_evidence.py) and its [12 synthetic unit tests](https://github.com/albdrani37-hash/FalconX/blob/main/examples/eval-evidence-demo/test_verify_evidence.py). Its documented local Python 3.13 test run passed 12/12 on 27 October 2026; this is an **author-reported local run**, not independent verification. A reviewer can use Python 3.11+ to run it without proprietary benchmark data. It illustrates explicit `PASS`, `HOLD`, and `FAIL` responses when provided claims, included runs or artifact digests disagree.
+
+This demonstration **is not** the AgentDojo frozen-corpus result, an authenticated source-of-truth proof, or a customer deployment. The ability to fabricate an internally consistent input remains outside the checker’s trust boundary.
+
 ## What is new in the proposed funded work?
 
 The current system is tightly coupled to one research snapshot. The funded work would develop a more accessible, documented Python audit interface and controlled test corpus so researchers can inspect which parts of an agent-evaluation claim are supported by structurally consistent evidence.
